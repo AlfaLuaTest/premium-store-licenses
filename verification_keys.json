@@ -1,0 +1,18 @@
+{
+  "keys": [
+    {
+      "key": "PREMIUM-TEST-1234-ABCD",
+      "status": "active"
+    },
+    {
+      "key": "LEGACY-PREM-65019F84",
+      "status": "active"
+    }
+  ],
+  "banned_hwids": [],
+  "stats": {
+    "total_keys": 2,
+    "active_keys": 2,
+    "banned_hwids": 0
+  }
+}
