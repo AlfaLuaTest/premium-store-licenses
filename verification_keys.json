@@ -391,12 +391,16 @@
     {
       "key": "PREMIUM-C6D2-E8F4-G3H7",
       "status": "active"
+    },
+    {
+      "key": "LEGACY-PREM-BD5C977F",
+      "status": "active"
     }
   ],
   "banned_hwids": [],
   "stats": {
-    "total_keys": 100,
-    "active_keys": 100,
+    "total_keys": 99,
+    "active_keys": 99,
     "banned_hwids": 0
   }
 }
