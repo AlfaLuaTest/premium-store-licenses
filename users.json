@@ -1,4 +1,13 @@
 {
-  "users": [],
+  "users": [
+    {
+      "license_key": "LEGACY-PREM-BD5C977F",
+      "owner": "PremiumSt0re",
+      "hwid": "HWID-6A42243C3338EF5579F42829",
+      "registered_at": "2026-01-30T16:32:12.213192",
+      "last_login": "2026-01-30T16:32:12.213201",
+      "legacy": true
+    }
+  ],
   "banned_users": []
 }
