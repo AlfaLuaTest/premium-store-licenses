@@ -1,13 +1,4 @@
 {
-  "users": [
-    {
-      "license_key": "LEGACY-PREM-65019F84",
-      "owner": "PremiumSt0re",
-      "hwid": "HWID-6A42243C3338EF5579F42829",
-      "registered_at": "2026-01-28T21:53:26.302621",
-      "last_login": "2026-01-28T21:53:26.302680",
-      "legacy": true
-    }
-  ],
+  "users": [],
   "banned_users": []
 }
