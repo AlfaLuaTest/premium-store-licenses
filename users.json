@@ -1,4 +1,12 @@
 {
-  "users": [],
+  "users": [
+    {
+      "license_key": "PREMIUM-A7F3-9B2E-4D1C",
+      "owner": "karpuzmegavayt",
+      "hwid": "HWID-575349FD548B178F79287999",
+      "registered_at": "2026-01-31T17:23:05.799349",
+      "last_login": "2026-01-31T17:23:05.799382"
+    }
+  ],
   "banned_users": []
 }
