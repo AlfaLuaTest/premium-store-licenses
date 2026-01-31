@@ -400,7 +400,7 @@
   "banned_hwids": [],
   "stats": {
     "total_keys": 99,
-    "active_keys": 99,
+    "active_keys": 1,
     "banned_hwids": 0
   }
 }
