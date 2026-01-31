@@ -6,6 +6,14 @@
       "hwid": "HWID-575349FD548B178F79287999",
       "registered_at": "2026-01-31T17:23:05.799349",
       "last_login": "2026-01-31T17:23:05.799382"
+    },
+    {
+      "license_key": "LEGACY-PREM-9B33CB0D",
+      "owner": "PremiumSt0re",
+      "hwid": "HWID-6A42243C3338EF5579F42829",
+      "registered_at": "2026-01-31T17:39:16.697652",
+      "last_login": "2026-01-31T17:39:16.697672",
+      "legacy": true
     }
   ],
   "banned_users": []
