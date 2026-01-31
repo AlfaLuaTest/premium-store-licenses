@@ -395,12 +395,16 @@
     {
       "key": "LEGACY-PREM-BD5C977F",
       "status": "active"
+    },
+    {
+      "key": "LEGACY-PREM-9B33CB0D",
+      "status": "active"
     }
   ],
   "banned_hwids": [],
   "stats": {
-    "total_keys": 99,
-    "active_keys": 1,
+    "total_keys": 100,
+    "active_keys": 100,
     "banned_hwids": 0
   }
 }
