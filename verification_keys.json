@@ -398,7 +398,7 @@
     },
     {
       "key": "LEGACY-PREM-9B33CB0D",
-      "status": "active"
+      "status": "inactive"
     }
   ],
   "banned_hwids": [],
