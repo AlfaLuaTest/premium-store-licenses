@@ -1,13 +1,13 @@
 {
-  "version": "3.4.3",
-  "release_date": "2026-01-28",
+  "version": "3.4.4",
+  "release_date": "2026-02-27",
   "is_critical": true,
   "force_update": true,
-  "changelog": "🔧 GÜNCELLEME NOTLARI v3.4.2\n\n✅ Yeni Özellikler:\n- Otomatik güncelleme sistemi eklendi\n- Railway API bağlantı hatası düzeltildi\n- Sürüm kontrolü ve auto-update desteği\n\n🛠️ İyileştirmeler:\n- API URL protokol düzeltmesi\n- Yedekleme sistemi eklendi\n- Dosya doğrulama (hash) sistemi\n\n📦 Önceki Sürüm: v3.4.1",
+  "changelog": "🔧 GÜNCELLEME NOTLARI v3.4.4\n\n✅ Yeni Özellikler:\n- API sunucusu yeni adrese taşındı\n- Bağlantı stabilitesi artırıldı\n\n🛠️ Düzeltmeler:\n- Eski API adresi güncellendi\n- Sunucu bağlantı hatası giderildi\n\n📦 Önceki Sürüm: v3.4.3",
   "files": [
     {
-      "filename": "Premium Bot Gui.exe",
-      "url": "https://raw.githubusercontent.com/AlfaLuaTest/premium-store-licenses/main/VERSIONS/V3.4.3/PREMİUM STORE VİSİT BOT.exe",
+      "filename": "PSVisitBot.exe",
+      "url": "https://raw.githubusercontent.com/AlfaLuaTest/premium-store-licenses/main/VERSIONS/V3.4.4/PSVisitBot.exe",
       "hash": ""
     }
   ],
